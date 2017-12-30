@@ -5,6 +5,8 @@ import Link from "gatsby-link"
 
 import { rhythm } from "../utils/typography"
 
+import "../styles/main.sass"
+
 const linkStyle = css({ float: `right` })
 
 export default ({ children, data }) =>

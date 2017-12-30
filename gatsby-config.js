@@ -11,6 +11,12 @@ module.exports = {
       },
     },
     `gatsby-transformer-remark`,
+   {
+      resolve: `gatsby-plugin-sass`,
+      options: {
+        precision: 8,
+      },
+    },
     `gatsby-plugin-glamor`,
     {
       resolve: `gatsby-plugin-typography`,
