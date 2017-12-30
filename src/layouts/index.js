@@ -10,22 +10,23 @@ import "../styles/main.sass"
 const linkStyle = css({ float: `right` })
 
 export default ({ children, data }) =>
-  <g.Div
-    margin={`0 auto`}
-    maxWidth={700}
-    padding={rhythm(2)}
-    paddingTop={rhythm(1.5)}
-  >
-    <Link to={`/`}>
-      <g.H3 marginBottom={rhythm(2)} display={`inline-block`}>
-        {data.site.siteMetadata.title}
-      </g.H3>
-    </Link>
-    <Link className={linkStyle} to={`/about/`}>
-      About
-    </Link>
-    {children()}
-  </g.Div>
+    <g.Div>
+      <div className='headtastic'>
+        <div className='portal'>
+          <Link to={`/`}>
+            <g.H3 marginBottom={rhythm(2)} display={`inline-block`}>
+              {data.site.siteMetadata.title}
+            </g.H3>
+          </Link>
+          <Link className={linkStyle} to={`/about/`}>
+            About
+          </Link>
+        </div>
+      </div>
+      <div className='portal'>
+        {children()}
+      </div>
+    </g.Div>
 
 export const query = graphql`
   query LayoutQuery {

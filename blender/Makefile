@@ -31,3 +31,10 @@ $(BLENDVR_DIR)/source:
 $(BLENDVR_DIR)/source/libs/python-ovrsdk:
 	cd $(BLENDVR_DIR)/source/libs \
 		&& git clone --depth=1 https://github.com/BlenderVR/python-ovrsdk.git
+
+setup:
+	cd $(BLENDVR_DIR) \
+	&& pip3 install virtualenv \
+	&& pyvenv venv \
+	&& source venv/bin/activate \
+	&& pip3 install -r source/requirements.txt

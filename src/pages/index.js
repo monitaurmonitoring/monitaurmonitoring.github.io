@@ -8,7 +8,9 @@ export default ({ data }) => {
   return (
     <div>
       <g.H1 display={"inline-block"} borderBottom={"1px solid"}>
-        H3ll0 3D W0rld!!!
+        <div className="myHeader">
+        List of posts
+        </div>
       </g.H1>
       <h4>
         {data.allMarkdownRemark.totalCount} Posts
