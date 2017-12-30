@@ -5,7 +5,7 @@ date: "2017-12-28"
 
 Hello World in 3D for Blender.
 
-1. [Download blender](https://www.blender.org/download/)
+1. [Download blender and BlendVR](http://blender-vr-manual.readthedocs.io/installation/installation-manual.html)
 1. Open your first document and learn the basics of the interface:
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/kes2qmijy7w" frameborder="0"
