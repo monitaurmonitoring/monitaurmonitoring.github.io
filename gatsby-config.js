@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `H3ll0 3D W0rld!!!`,
+    title: `$tawkyard`,
   },
   plugins: [
     {
