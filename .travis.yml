@@ -2,9 +2,7 @@ matrix:
   include:
   - os: linux
     dist: trusty
-    sudo: required
-    services:
-    - docker
+    sudo: false
     cache:
       directories:
       - "$HOME/.npm"
