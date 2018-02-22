@@ -1,8 +1,13 @@
-trite-cats.surge.sh: clean public
-	surge -d `cat CNAME` public
+show:
+	travis status
+
+d:
+	gatsby develop
 
 public:
 	gatsby build
 
 clean:
 	rm -Rf public
+
+ci: clean public
