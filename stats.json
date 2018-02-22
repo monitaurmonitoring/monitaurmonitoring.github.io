@@ -1,5 +1,9 @@
 {
   "assetsByChunkName": {
+    "component---src-pages-privacy-js": [
+      "component---src-pages-privacy-js-11e6b6b6de1ede2597df.js",
+      "component---src-pages-privacy-js-11e6b6b6de1ede2597df.js.map"
+    ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-6841478cd546eb37c110.js",
       "component---src-pages-index-js-6841478cd546eb37c110.js.map"
@@ -25,8 +29,12 @@
       "component---src-pages-my-files-js-b0a36c1c44972c0b05f8.js.map"
     ],
     "path---my-files": [
-      "path---my-files-8d19d9c480f18090ba70.js",
-      "path---my-files-8d19d9c480f18090ba70.js.map"
+      "path---my-files-b91f03f5a08533c563fb.js",
+      "path---my-files-b91f03f5a08533c563fb.js.map"
+    ],
+    "path---privacy": [
+      "path---privacy-a0e39f21c11f6a62c5ab.js",
+      "path---privacy-a0e39f21c11f6a62c5ab.js.map"
     ],
     "commons": [
       "commons-93dad60b3cb962dc9d77.js",
@@ -37,8 +45,8 @@
       "path---helloworld-stawkyard-com-fae998dd016604f367a8.js.map"
     ],
     "app": [
-      "app-de1609220a9a7469d3e3.js",
-      "app-de1609220a9a7469d3e3.js.map"
+      "app-6af1b397252a817afc88.js",
+      "app-6af1b397252a817afc88.js.map"
     ],
     "component---src-pages-about-js": [
       "component---src-pages-about-js-bd772d7c7719268455d2.js",
