@@ -1,0 +1,52 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-6841478cd546eb37c110.js",
+      "component---src-pages-index-js-6841478cd546eb37c110.js.map"
+    ],
+    "path---": [
+      "path----7ce987f1b05e645d4b49.js",
+      "path----7ce987f1b05e645d4b49.js.map"
+    ],
+    "component---src-templates-blog-post-js": [
+      "component---src-templates-blog-post-js-b84dc952d929669935d8.js",
+      "component---src-templates-blog-post-js-b84dc952d929669935d8.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-2ce0785b4ebc380738b6.js",
+      "component---src-layouts-index-js-2ce0785b4ebc380738b6.js.map"
+    ],
+    "path---index": [
+      "path---index-edb262cf568ef4ceb678.js",
+      "path---index-edb262cf568ef4ceb678.js.map"
+    ],
+    "component---src-pages-my-files-js": [
+      "component---src-pages-my-files-js-b0a36c1c44972c0b05f8.js",
+      "component---src-pages-my-files-js-b0a36c1c44972c0b05f8.js.map"
+    ],
+    "path---my-files": [
+      "path---my-files-8d19d9c480f18090ba70.js",
+      "path---my-files-8d19d9c480f18090ba70.js.map"
+    ],
+    "commons": [
+      "commons-93dad60b3cb962dc9d77.js",
+      "commons-93dad60b3cb962dc9d77.js.map"
+    ],
+    "path---helloworld-stawkyard-com": [
+      "path---helloworld-stawkyard-com-fae998dd016604f367a8.js",
+      "path---helloworld-stawkyard-com-fae998dd016604f367a8.js.map"
+    ],
+    "app": [
+      "app-de1609220a9a7469d3e3.js",
+      "app-de1609220a9a7469d3e3.js.map"
+    ],
+    "component---src-pages-about-js": [
+      "component---src-pages-about-js-bd772d7c7719268455d2.js",
+      "component---src-pages-about-js-bd772d7c7719268455d2.js.map"
+    ],
+    "path---about": [
+      "path---about-a0e39f21c11f6a62c5ab.js",
+      "path---about-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}

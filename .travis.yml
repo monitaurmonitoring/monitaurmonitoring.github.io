@@ -1,0 +1,15 @@
+matrix:
+  include:
+  - os: linux
+    dist: trusty
+    sudo: false
+    cache:
+      directories:
+      - ".git"
+    env:
+    - builder=travis
+language: node_js
+node_js:
+- 8
+script:
+- touch index.html
