@@ -11,3 +11,4 @@ matrix:
 language: bash
 script:
 - touch index.html
+- ls -lh
