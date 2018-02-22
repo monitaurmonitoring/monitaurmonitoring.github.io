@@ -8,8 +8,6 @@ matrix:
       - ".git"
     env:
     - builder=travis
-language: node_js
-node_js:
-- 8
+language: bash
 script:
 - touch index.html
