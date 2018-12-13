@@ -1,2 +1,0 @@
-webpackJsonp([0xefeaa6d1881d],{363:function(e,t,n){(function(u){"use strict";function l(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var a=n(5);l(a);t.default=function(){return u.createElement("div",null,u.createElement("h2",null,"About $tawkyard"),u.createElement("p",null,"We are the site dedicated to getting you up and running with ecommerce solutions as quickly as possible."))},e.exports=t.default}).call(t,n(26))}});
-//# sourceMappingURL=component---src-pages-about-js-bd772d7c7719268455d2.js.map
