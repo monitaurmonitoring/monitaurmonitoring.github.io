@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `$tawkyard`,
+    title: `Monitaur`,
   },
   plugins: [
     {

@@ -2,9 +2,9 @@ import React from "react";
 
 export default () => (
   <div>
-    <h2>About $tawkyard</h2>
+    <h2>About Monitaur</h2>
     <p>
-     We are the site dedicated to getting you up and running with ecommerce solutions as quickly as possible.
+    We are a company dedicated to getting you up and running with monitoring solutions as quickly as possible.
     </p>
   </div>
 );
