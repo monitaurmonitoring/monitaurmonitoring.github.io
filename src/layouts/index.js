@@ -2,7 +2,7 @@ import React from "react"
 import g from "glamorous"
 import { css } from "glamor"
 import Link from "gatsby-link"
-import monitaur from "./monitaur.png";
+import monitaur from "./monitaur.jpg";
 
 import { rhythm } from "../utils/typography"
 
