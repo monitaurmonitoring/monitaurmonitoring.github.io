@@ -1,3 +1,3 @@
 # [monitaur.net](https://monitaur.net/)
 
-Monitaur monitoring
+Monitaur for all monitoring needs
