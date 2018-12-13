@@ -1,0 +1,2 @@
+webpackJsonp([0x7318df67910c],{497:function(t,o){t.exports={data:{markdownRemark:{html:"<p>Hello World monitaur.net bootstrapping up, watch here in the coming weeks to build your own highly available clustered monitoring solutions with ease</p>",frontmatter:{title:"Hello World"}}},pathContext:{slug:"/helloworld-monitaur.net/"}}}});
+//# sourceMappingURL=path---helloworld-monitaur-net-1f85cafa530f0bbf8092.js.map
