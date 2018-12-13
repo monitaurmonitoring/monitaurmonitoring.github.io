@@ -2,7 +2,7 @@ import React from "react"
 import g from "glamorous"
 import { css } from "glamor"
 import Link from "gatsby-link"
-import stawkhead from "./stawkhead.jpg";
+import monitaur from "./monitaur.png";
 
 import { rhythm } from "../utils/typography"
 
@@ -24,8 +24,8 @@ export default ({ children, data }) =>
           </Link>
         </div>
       </div>
-      <div className='stawkhead'>
-        <img src={stawkhead} height="442" alt="Stawkhead" className='stawk-center' />
+      <div className='monitaur'>
+        <img src={monitaur} height="442" alt="monitaur" className='monit-center' />
       </div>
       <div className='portal'>
         {children()}
