@@ -32,7 +32,7 @@ deploy:
   keep-history: true
   local-dir: public
   target-branch: master
-  fqdn: stawkyard.com
+  fqdn: monitaur.net
   verbose: true
   on:
     branch: gatsby
