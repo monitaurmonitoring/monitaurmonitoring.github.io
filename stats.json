@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "component---src-pages-privacy-js": [
-      "component---src-pages-privacy-js-11e6b6b6de1ede2597df.js",
-      "component---src-pages-privacy-js-11e6b6b6de1ede2597df.js.map"
+      "component---src-pages-privacy-js-8fd225efec900dffd40a.js",
+      "component---src-pages-privacy-js-8fd225efec900dffd40a.js.map"
     ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-6841478cd546eb37c110.js",
@@ -17,20 +17,24 @@
       "component---src-templates-blog-post-js-b84dc952d929669935d8.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-2ce0785b4ebc380738b6.js",
-      "component---src-layouts-index-js-2ce0785b4ebc380738b6.js.map"
+      "component---src-layouts-index-js-a17983fb11ce5321954b.js",
+      "component---src-layouts-index-js-a17983fb11ce5321954b.js.map"
+    ],
+    "path---helloworld-monitaur-net": [
+      "path---helloworld-monitaur-net-a791191b11ed0ff819e4.js",
+      "path---helloworld-monitaur-net-a791191b11ed0ff819e4.js.map"
     ],
     "path---index": [
-      "path---index-edb262cf568ef4ceb678.js",
-      "path---index-edb262cf568ef4ceb678.js.map"
+      "path---index-f4e8707533ca821c4e70.js",
+      "path---index-f4e8707533ca821c4e70.js.map"
     ],
     "component---src-pages-my-files-js": [
       "component---src-pages-my-files-js-b0a36c1c44972c0b05f8.js",
       "component---src-pages-my-files-js-b0a36c1c44972c0b05f8.js.map"
     ],
     "path---my-files": [
-      "path---my-files-b91f03f5a08533c563fb.js",
-      "path---my-files-b91f03f5a08533c563fb.js.map"
+      "path---my-files-03986b5a8e240e0851ca.js",
+      "path---my-files-03986b5a8e240e0851ca.js.map"
     ],
     "path---privacy": [
       "path---privacy-a0e39f21c11f6a62c5ab.js",
@@ -40,13 +44,9 @@
       "commons-93dad60b3cb962dc9d77.js",
       "commons-93dad60b3cb962dc9d77.js.map"
     ],
-    "path---helloworld-stawkyard-com": [
-      "path---helloworld-stawkyard-com-fae998dd016604f367a8.js",
-      "path---helloworld-stawkyard-com-fae998dd016604f367a8.js.map"
-    ],
     "app": [
-      "app-6af1b397252a817afc88.js",
-      "app-6af1b397252a817afc88.js.map"
+      "app-5cc57a369ec533186e28.js",
+      "app-5cc57a369ec533186e28.js.map"
     ],
     "component---src-pages-about-js": [
       "component---src-pages-about-js-bd772d7c7719268455d2.js",
