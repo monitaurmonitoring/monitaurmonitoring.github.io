@@ -24,6 +24,7 @@ export default ({ children, data }) =>
           </Link>
           <Link className={linkStyle} to={`/chart/`}>
             Chart
+            &nbsp;
           </Link>
         </div>
       </div>
