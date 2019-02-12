@@ -4,6 +4,10 @@
       "component---src-pages-privacy-js-8fd225efec900dffd40a.js",
       "component---src-pages-privacy-js-8fd225efec900dffd40a.js.map"
     ],
+    "path---chart": [
+      "path---chart-a0e39f21c11f6a62c5ab.js",
+      "path---chart-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-6841478cd546eb37c110.js",
       "component---src-pages-index-js-6841478cd546eb37c110.js.map"
@@ -12,13 +16,17 @@
       "path----0662183bb9d127b63afa.js",
       "path----0662183bb9d127b63afa.js.map"
     ],
+    "component---src-pages-chart-js": [
+      "component---src-pages-chart-js-b9efdabdbdc38254cb4e.js",
+      "component---src-pages-chart-js-b9efdabdbdc38254cb4e.js.map"
+    ],
     "component---src-templates-blog-post-js": [
       "component---src-templates-blog-post-js-b84dc952d929669935d8.js",
       "component---src-templates-blog-post-js-b84dc952d929669935d8.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-8645b487123d7397a4fc.js",
-      "component---src-layouts-index-js-8645b487123d7397a4fc.js.map"
+      "component---src-layouts-index-js-7764357ccae58e751054.js",
+      "component---src-layouts-index-js-7764357ccae58e751054.js.map"
     ],
     "path---helloworld-monitaur-net": [
       "path---helloworld-monitaur-net-1f85cafa530f0bbf8092.js",
@@ -33,8 +41,8 @@
       "component---src-pages-my-files-js-b0a36c1c44972c0b05f8.js.map"
     ],
     "path---my-files": [
-      "path---my-files-0397ab59e0669676f7a2.js",
-      "path---my-files-0397ab59e0669676f7a2.js.map"
+      "path---my-files-99fadf3af24d4312ca04.js",
+      "path---my-files-99fadf3af24d4312ca04.js.map"
     ],
     "path---privacy": [
       "path---privacy-a0e39f21c11f6a62c5ab.js",
@@ -45,8 +53,8 @@
       "commons-93dad60b3cb962dc9d77.js.map"
     ],
     "app": [
-      "app-5cc57a369ec533186e28.js",
-      "app-5cc57a369ec533186e28.js.map"
+      "app-225320a0fa9f2eddacc7.js",
+      "app-225320a0fa9f2eddacc7.js.map"
     ],
     "component---src-pages-about-js": [
       "component---src-pages-about-js-90cb118502b8a1f4c9f0.js",
