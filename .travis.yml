@@ -19,11 +19,11 @@ addons:
     - socat
     - time
 before_install:
-- if [[ "$TRAVIS_OS_NAME" == "linux" ]]; then 
-    npm install -g gatsby-cli gh-pages;
+- if [[ "$TRAVIS_OS_NAME" == "linux" ]]; then
+    npm install -g gatsby-cli yarn gh-pages;
   fi
 script:
-- npm i
+- yarn
 - /bin/bash -l -c "/usr/bin/time -v make -e ci"
 deploy:
   provider: pages
