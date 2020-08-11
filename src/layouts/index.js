@@ -2,7 +2,6 @@ import React from "react"
 import g from "glamorous"
 import { css } from "glamor"
 import Link from "gatsby-link"
-import monitaur from "./monitaur.jpg";
 
 import { rhythm } from "../utils/typography"
 
@@ -19,17 +18,18 @@ export default ({ children, data }) =>
               {data.site.siteMetadata.title}
             </g.H3>
           </Link>
+          <Link className={linkStyle} to={`/contact/`}>
+            Contact
+          </Link>
           <Link className={linkStyle} to={`/about/`}>
             About
+            |&nbsp;
           </Link>
           <Link className={linkStyle} to={`/chart/`}>
             Chart
-            &nbsp;
+            |&nbsp;
           </Link>
         </div>
-      </div>
-      <div className='monitaur'>
-        <img src={monitaur} height="442" alt="monitaur" className='monit-center' />
       </div>
       <div className='portal'>
         {children()}

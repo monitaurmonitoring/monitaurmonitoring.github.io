@@ -1,12 +1,16 @@
 import React from "react"
 import g from "glamorous"
 import Link from "gatsby-link"
+import monitaur from "./monitaur.jpg";
 
 import { rhythm } from "../utils/typography"
 
 export default ({ data }) => {
   return (
     <div>
+      <div className='monitaur'>
+        <img src={monitaur} height="442" alt="monitaur" className='monit-center' />
+      </div>
       <g.H2 display={"inline-block"} borderBottom={"1px solid"}>
         <div className="myHeader">
 	News
